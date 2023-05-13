@@ -7,7 +7,7 @@ The purpose of this application is to take in customer's desk specification and 
 
 Here is my video link demo below:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/af7c28f62a2144ffbed8fc843d7fd96f)
 
 # Development Environment
 
